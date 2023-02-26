@@ -183,7 +183,7 @@
 #contact::before {
     content: "";
     position: absolute;
-    background: url('images/contact-flatlay.jpg') no-repeat center center/cover;
+    background: url('img/contact-flatlay.jpg') no-repeat center center/cover;
     width: 100%;
     height: 100%;
     z-index: -1;
